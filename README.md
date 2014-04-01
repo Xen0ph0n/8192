@@ -1,4 +1,13 @@
-# 2048
+# 8192
+
+I modified Gabriels addictive 2048. Added an additional row on the grid in each direction and now 4's spawn 15% of the time (vs 10%) and 8's spawn 5% of the time. 
+
+<p align="center">
+  <img src="http://dtrackr.com/8192/8192.png" alt="Screenshot"/>
+</p>
+
+----- Below is all the orig. Readme. 
+
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
